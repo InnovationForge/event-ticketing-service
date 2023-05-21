@@ -33,18 +33,18 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-<!--        <dependency>-->
-<!--            <groupId>com.github.innovationforge</groupId>-->
-<!--            <artifactId>ets-core</artifactId>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>com.github.innovationforge</groupId>-->
-<!--            <artifactId>ets-security</artifactId>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>com.github.innovationforge</groupId>-->
-<!--            <artifactId>ets-utility</artifactId>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>com.github.innovationforge</groupId>
+            <artifactId>ets-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.innovationforge</groupId>
+            <artifactId>ets-security</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.innovationforge</groupId>
+            <artifactId>ets-utility</artifactId>
+        </dependency>
     </dependencies>
 
     <build>

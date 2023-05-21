@@ -16,13 +16,13 @@
     <url>http://maven.apache.org</url>
 
     <dependencies>
-<!--        <dependency>-->
-<!--            <groupId>com.github.innovationforge</groupId>-->
-<!--            <artifactId>ets-core</artifactId>-->
-<!--        </dependency>-->
-<!--        <dependency>-->
-<!--            <groupId>com.github.innovationforge</groupId>-->
-<!--            <artifactId>ets-utility</artifactId>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>com.github.innovationforge</groupId>
+            <artifactId>ets-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.innovationforge</groupId>
+            <artifactId>ets-utility</artifactId>
+        </dependency>
     </dependencies>
 </project>

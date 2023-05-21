@@ -22,7 +22,7 @@ public class UserController {
     public ResponseEntity<?> retrieveProfileOfAuthenticatedUser() {
         return ResponseEntity.ok().body("Retrieves the profile information of the authenticated user successfully");
     }
-    @PutMapping("/ptofile")
+    @PutMapping("/profile")
     public ResponseEntity<?> UpdateProfileOfAuthenticatedUser() {
         return ResponseEntity.ok().body("Updates the profile information of the authenticated user successfully");
     }

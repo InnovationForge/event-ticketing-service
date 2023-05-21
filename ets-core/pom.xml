@@ -29,9 +29,9 @@
             <artifactId>jakarta.validation-api</artifactId>
         </dependency>
 
-<!--        <dependency>-->
-<!--            <groupId>com.github.innovationforge</groupId>-->
-<!--            <artifactId>ets-utility</artifactId>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>com.github.innovationforge</groupId>
+            <artifactId>ets-utility</artifactId>
+        </dependency>
     </dependencies>
 </project>
